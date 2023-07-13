@@ -74,6 +74,12 @@ ul{
   margin: 10px;
   display: flex;
   flex-direction: column;
+  transition: transform 0.3s;
+}
+
+.pokemon:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
 }
 
 .pokemon img {
