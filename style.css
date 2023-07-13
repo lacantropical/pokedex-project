@@ -62,7 +62,7 @@ ul{
 
 .lista-de-pokemon {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 200px 200px 200px 200px;
   justify-content: center;
   align-items: center;
 }
