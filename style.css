@@ -121,33 +121,117 @@ ul{
   color: #212121;
   background-color: #9BCC50;
   padding: 2px 20px 2px 20px;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .tipo-poison {
   color: #FFFFFF;
   background-color: #B97FC9;
   padding: 2px 20px 2px 20px;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .tipo-fire {
   color: #FFFFFF;
   background-color: #FD7D24;
   padding: 2px 20px 2px 20px;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .tipo-water {
   color: #FFFFFF;
   background-color: #4592C4;
   padding: 2px 20px 2px 20px;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .tipo-flying {
   color: #212121;
   background: linear-gradient(to bottom, #3DC7EF 50%, #BDB9B8 50%);
   padding: 2px 20px 2px 20px;
-  border-radius: 5px;
+  border-radius: 3px;
+}
+
+.tipo-electric {
+  color: #212121;
+  background-color: #EED535;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-ice {
+  color: #212121;
+  background-color: #51C4E7;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-normal {
+  color: #212121;
+  background-color: #A4ACAF;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-rock {
+  color: #FFFFFF;
+  background-color: #A38C21;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-dragon {
+  color: #FFFFFF;
+  background: linear-gradient(to bottom, #53A4CF 50%, #F16E57 50%);
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-psychic {
+  color: #FFFFFF;
+  background-color: #F366B9;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-ground {
+  color: #212121;
+  background: linear-gradient(to bottom, #F7DE3F 50%, #AB9842 50%);
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-bug {
+  color: #FFFFFF;
+  background-color: #729F3F;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-fighting {
+  color: #FFFFFF;
+  background-color: #D56723;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-ghost {
+  color: #FFFFFF;
+  background-color: #7B62A3;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-steel {
+  color: #212121;
+  background-color: #9EB7B8;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
+}
+
+.tipo-fairy {
+  color: #212121;
+  background-color: #FDB9E9;
+  padding: 2px 20px 2px 20px;
+  border-radius: 3px;
 }
